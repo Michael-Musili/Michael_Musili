@@ -1,16 +1,22 @@
-.nav{
+.nav {
     display: flex;
     justify-content: space-evenly;
     padding-top: 40px;
     background-image: url(images/mikebd.jpeg);
     background-size: 55%;
     background-repeat: no-repeat;
-    height: 900px;
-
 }
-.navbar{
-    padding: 10px;
-    line-height: 400%;
+.nav li a{
+    line-height: 300%;
     font-size: 30px;
-    
+    font-weight: 700;
+}
+.project1{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 40px;
+    background-color: cadetblue;
+}
+.content1{
+    padding-top: 60px;
 }
