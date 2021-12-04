@@ -2,9 +2,12 @@
     display: flex;
     justify-content: space-evenly;
     padding-top: 40px;
-    background-image: url(images/mikebd.jpeg);
-    background-size: 55%;
+    background-image: url(tech.jpg);
+    background-size: cover;
     background-repeat: no-repeat;
+}
+.head{
+    
 }
 
 .nav li a {
