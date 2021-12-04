@@ -49,13 +49,16 @@
     padding-top: 60px;
 
 }
-.h2{
+h2{
     color: greenyellow;
 }
-.p1{
+p{
     color: cyan;
 }
 .projectC {
+    background-image: url(bg2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
     display: flex;
     justify-content: space-evenly;
     padding: 30px;
@@ -67,6 +70,9 @@
 }
 
 .projectD {
+    background-image: url(bck5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
     display: flex;
     justify-content: space-evenly;
     padding: 30px;
@@ -74,6 +80,12 @@
 
 .content4 {
     padding-top: 60px;
+}
+.sites{
+    background-image:url( bck3.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
 }
 
 .footer {
@@ -88,7 +100,9 @@
 }
 
 .end {
-    background-color: rgb(50, 108, 205);
+    background-image: url(back7.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
     height: 600px;
     display: flex;
     justify-content: space-evenly;
