@@ -41,13 +41,20 @@
 }
 
 .projectB {
-    background-color: rgb(238,254,254);
+    background-image: url(bck3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
     height: 400px;
     text-align: center;
     padding-top: 60px;
 
 }
-
+.h2{
+    color: greenyellow;
+}
+.p1{
+    color: cyan;
+}
 .projectC {
     display: flex;
     justify-content: space-evenly;
