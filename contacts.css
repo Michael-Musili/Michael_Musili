@@ -1,9 +1,3 @@
-*{
-    margin: 0;
-    padding: 0;
-    ;
-
-}
 .nav {
     display: flex;
     justify-content: space-evenly;
@@ -12,7 +6,6 @@
     background-size: cover;
     background-repeat: no-repeat;
 
-    
 }
 
 .navbar1 ul li:hover{
@@ -33,101 +26,48 @@
     font-size: 30px;
     font-weight: 700;
 }
-.nav l a {
-    line-height: 300%;
-    font-size: 30px;
-    font-weight: 700;
-}
-.buttonA{
-    float: right;
-    padding-right: 10px;
-    font-size: 20px;
-    color: greenyellow;
-}
-
-.header_main {
+.footer {
+    height: -20px;
+    padding: 10px;
     text-align: center;
-    padding-top: 30px;
+    color: white;
+    font-size: 8px;
+    border: 1px black;
+    padding-top: 10px;
+    width: 100%;
 }
 
-.content1 {
-    padding-top: 60px;
-}
-
-.serverser {
-    color: greenyellow;
-}
-
-.p2 {
-    color: cyan;
-}
-
-.container1 {
-
-    background-image: url(images/bac2.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-
-}
-
-.projectA {
-    height: 500px;
-    display: flex;
-    padding-left: 50px;
-    padding-top: 20px;
-    justify-content: space-between;
-}
-
-.projectB {
-    background-image: url(images/bck3.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 400px;
-    text-align: center;
-    padding-top: 60px;
-
-}
-
-h2 {
-    color: greenyellow;
-    
-}
-
-p {
-    color: cyan;
-    font-size: larger;
-}
-
-.projectC {
+.end {
     background-image: url(images/bg2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    height: 400px;
     display: flex;
     justify-content: space-evenly;
-    padding: 30px;
-}
-
-.content3 {
-
-    padding: 60px;
-}
-
-.projectD {
-    background-image: url(images/bck5.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    display: flex;
-    justify-content: space-evenly;
-    padding: 30px;
-}
-
-.content4 {
     padding-top: 60px;
 }
 
-.sites {
-    background-image: url(images/bck3.jpg);
-    background-repeat: no-repeat;
+.label {
+    color: cyan;
+}
+.h1{
+    color: greenyellow;
+}
+
+.footer {
+    height: -50px;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    font-size: x-small;
+}
+
+.copyright {
+    background-color: rgb(5,14,42);
     background-size: cover;
-    height: 500px;
+    text-align: center;
+    padding-top: 6px;
+    margin: 1px;
+    color: rgb(198,111,216);
+    height: 27px;
 }
