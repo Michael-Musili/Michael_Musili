@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+    ;
+
+}
+.nav {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 40px;
+    background-image: url(images/tech.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    
+}
+
+.navbar1 ul li:hover{
+    background-color: cyan;
+    border-radius: 30%;
+}
+.navbar2 ul li:hover{
+    background-color: greenyellow;
+    border-radius: 30%;
+}
+.l2 li:hover{
+    background-color: greenyellow;
+    background-size: cover;
+}
+
+.nav li a {
+    line-height: 300%;
+    font-size: 30px;
+    font-weight: 700;
+}
+.nav l a {
+    line-height: 300%;
+    font-size: 30px;
+    font-weight: 700;
+}
+.buttonA{
+    float: right;
+    padding-right: 10px;
+    font-size: 20px;
+    color: greenyellow;
+}
+
+.header_main {
+    text-align: center;
+    padding-top: 30px;
+}
+
+.content1 {
+    padding-top: 60px;
+}
+
+.serverser {
+    color: greenyellow;
+}
+
+.p2 {
+    color: cyan;
+}
+
+.container1 {
+
+    background-image: url(images/bac2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.projectA {
+    height: 500px;
+    display: flex;
+    padding-left: 50px;
+    padding-top: 20px;
+    justify-content: space-between;
+}
+
+.projectB {
+    background-image: url(images/bck3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    text-align: center;
+    padding-top: 60px;
+
+}
+
+h2 {
+    color: greenyellow;
+    
+}
+
+p {
+    color: cyan;
+    font-size: larger;
+}
+
+.projectC {
+    background-image: url(images/bg2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 30px;
+}
+
+.content3 {
+
+    padding: 60px;
+}
+
+.projectD {
+    background-image: url(images/bck5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 30px;
+}
+
+.content4 {
+    padding-top: 60px;
+}
+
+.sites {
+    background-image: url(images/bck3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
