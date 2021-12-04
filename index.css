@@ -18,10 +18,22 @@
 .content1{
     padding-top: 60px;
 }
+.serverser{
+    color: greenyellow;
+}
+.p2{
+    color: cyan;
+}
+.container1{
+
+    background-image: url(bac2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
 
 .projectA {
-    background-image: url(tech.jpg);
-    height: 700px;
+    height: 500px;
     display: flex;
     padding-left: 50px;
     padding-top: 20px;
@@ -29,7 +41,7 @@
 }
 
 .projectB {
-    background-color: rgb(238, 254, 254);
+    background-color: rgb(238,254,254);
     height: 400px;
     text-align: center;
     padding-top: 60px;
