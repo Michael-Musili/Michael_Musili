@@ -6,17 +6,85 @@
     background-size: 55%;
     background-repeat: no-repeat;
 }
-.nav li a{
+
+.nav li a {
     line-height: 300%;
     font-size: 30px;
     font-weight: 700;
 }
-.project1{
-    display: flex;
-    justify-content: space-evenly;
-    padding-top: 40px;
-    background-color: cadetblue;
+.header_main{
+    text-align: center;
+    padding-top: 30px;
 }
 .content1{
     padding-top: 60px;
+}
+
+.projectA {
+    background-color: blue;
+    height: 700px;
+    display: flex;
+    padding-left: 50px;
+    padding-top: 20px;
+    justify-content: space-between;
+}
+
+.projectB {
+    background-color: rgb(238, 254, 254);
+    height: 400px;
+    text-align: center;
+    padding-top: 60px;
+
+}
+
+.projectC {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 30px;
+}
+
+.content3 {
+
+    padding: 60px;
+}
+
+.projectD {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 30px;
+}
+
+.content4 {
+    padding-top: 60px;
+}
+
+.footer {
+    height: -20px;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    font-size: 8px;
+    border: 1px black;
+    padding-top: 10px;
+    width: 100%;
+}
+
+.end {
+    background-color: rgb(50, 108, 205);
+    height: 600px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.footer {
+    background-color: rgb(16, 29, 55);
+    height: -50px;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    font-size: x-small;
+}
+.copyright{
+    background-color: oldlace;
+    text-align: center;
 }
