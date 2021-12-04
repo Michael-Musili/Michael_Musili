@@ -6,10 +6,6 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
-.head{
-    
-}
-
 .nav li a {
     line-height: 300%;
     font-size: 30px;
@@ -24,7 +20,7 @@
 }
 
 .projectA {
-    background-color: blue;
+    background-image: url(tech.jpg);
     height: 700px;
     display: flex;
     padding-left: 50px;
