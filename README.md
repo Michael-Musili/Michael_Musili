@@ -6,7 +6,7 @@ The project was written by Michael Musili
 My programming portfolio.
 ## Setup/Installation Requirements
 * To view the website click
-*  http://github.com/Michael-Musili/Michael_musili.git
+*  http://github.com/Michael-Musili/Michael_musili/
 ## Known Bugs
 There are no known bugs
 ## Technologies Used
