@@ -54,6 +54,17 @@
 .h1{
     color: greenyellow;
 }
+.experience {
+    background-image: url(images/bck3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 40px;
+    font-weight: 600;
+}
+.expe ul li{
+    color: greenyellow;
+    font-size: larger;
+}
 
 .footer {
     height: -50px;
