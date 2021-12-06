@@ -1,22 +1,48 @@
-body{
-    background-image: url(bck7.jpg);
+*{
+    margin: 0;
+    padding: 0;
+    ;
 
 }
 .nav {
     display: flex;
     justify-content: space-evenly;
     padding-top: 40px;
-    background-image: url(tech.jpg);
+    background-image: url(images/tech.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 
     
 }
 
+.navbar1 ul li:hover{
+    background-color: cyan;
+    border-radius: 30%;
+}
+.navbar2 ul li:hover{
+    background-color: greenyellow;
+    border-radius: 30%;
+}
+.l2 li:hover{
+    background-color: greenyellow;
+    background-size: cover;
+}
+
 .nav li a {
     line-height: 300%;
     font-size: 30px;
     font-weight: 700;
+}
+.nav l a {
+    line-height: 300%;
+    font-size: 30px;
+    font-weight: 700;
+}
+.buttonA{
+    float: right;
+    padding-right: 10px;
+    font-size: 20px;
+    color: greenyellow;
 }
 
 .header_main {
@@ -38,7 +64,7 @@ body{
 
 .container1 {
 
-    background-image: url(bac2.jpg);
+    background-image: url(images/bac2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -53,7 +79,7 @@ body{
 }
 
 .projectB {
-    background-image: url(bck3.jpg);
+    background-image: url(images/bck3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 400px;
@@ -73,7 +99,7 @@ p {
 }
 
 .projectC {
-    background-image: url(bg2.jpg);
+    background-image: url(images/bg2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -87,7 +113,7 @@ p {
 }
 
 .projectD {
-    background-image: url(bck5.jpg);
+    background-image: url(images/bck5.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -100,7 +126,7 @@ p {
 }
 
 .sites {
-    background-image: url(bck3.jpg);
+    background-image: url(images/bck3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 500px;
@@ -118,12 +144,13 @@ p {
 }
 
 .end {
-    background-image: url(bg2.jpg);
+    background-image: url(images/bg2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 600px;
+    height: 400px;
     display: flex;
     justify-content: space-evenly;
+    padding-top: 60px;
 }
 
 .label {
@@ -145,5 +172,8 @@ p {
     background-color: rgb(5,14,42);
     background-size: cover;
     text-align: center;
-    padding: 0px;
+    padding-top: 6px;
+    margin: 1px;
+    color: rgb(198,111,216);
+    height: 27px;
 }
