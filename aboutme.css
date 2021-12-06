@@ -60,9 +60,21 @@
     background-size: cover;
     padding: 40px;
     font-weight: 600;
+    height: 700px;
 }
 .expe ul li{
     color: greenyellow;
+    font-size: larger;
+}
+.expe{
+    padding: 40px;
+}
+.expe1,.expe2,.expe3{
+    padding: 40px;
+}
+h3{
+    color: greenyellow;
+    font-weight: 900;
     font-size: larger;
 }
 
